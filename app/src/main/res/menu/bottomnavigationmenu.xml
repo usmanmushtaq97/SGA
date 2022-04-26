@@ -3,17 +3,17 @@
     <item android:title="Home"
         android:id="@+id/home"
         android:icon="@drawable/ic_baseline_home_24" />
-    <item android:title="Emergency"
-        android:id="@+id/emergecny_nav_id"
-        android:icon="@drawable/ic_baseline_add_alert_24"
+    <item android:title="Dumy"
+        android:id="@+id/tablechart"
+        android:icon="@drawable/ic_baseline_home_24"
         />
     <item
-        android:id="@+id/attendane_id"
-        android:title="Mark Attendence"
-        android:icon="@drawable/ic_baseline_view_day_24"
+        android:id="@+id/carts"
+        android:title="f"
+        android:icon="@drawable/ic_baseline_home_24"
         />
-    <item android:id="@+id/profile_id"
-        android:title="Profile"
-        android:icon="@drawable/ic_baseline_person_24"
+    <item android:id="@+id/notification"
+        android:title="d2"
+        android:icon="@drawable/ic_baseline_home_24"
       />
 </menu>
